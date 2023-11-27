@@ -15,6 +15,8 @@ While creating the visualizations, a further observation was made regarding the 
 ## Results
 I chose Option 2 for my project. I selected the "fif18_clean.csv" dataset, which contains comprehensive player statistics from FIFA 2018.
 
+Question: How can we categorize players based on age under 25and market value to understand different player profiles?
+
 Top 10 Countries with Best Average Potential (Map):
 
 I created a map visualization to showcase the average potential of players from different countries. This helps in identifying countries with a high potential pool, aiding in the search for "wonder kids."("Wonder kids" is a term commonly used in the world of football (soccer) to refer to exceptionally talented and promising young players who exhibit outstanding skills, potential, and maturity beyond their age).
@@ -31,13 +33,12 @@ Question: How can we categorize players based on age and market value to underst
 
 ## Challenges 
 Data Cleaning:
-
 Cleaning the dataset and handling missing values posed challenges. Ensuring data integrity was crucial for accurate analysis.
+
 Interactivity:
-
 Creating an interactive dashboard with seamless filters and actions required careful consideration to enhance user experience.
-Cluster Interpretation:
 
+Cluster Interpretation:
 Interpreting and labeling clusters accurately was challenging. Ensuring the clusters represented meaningful player profiles was key.
 
 ## Future Goals
