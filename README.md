@@ -5,17 +5,23 @@ For my final Tableau project, the goal is to analyze and visualize FIFA 18 playe
 
 ## Process
 Step 1: Connect Data
-I started by connecting the FIFA 18 player stats dataset to Tableau, exploring the structure of the data and ensuring it was suitable for analysis.
+I initiated the project by connecting the FIFA 18 player stats dataset to Tableau. This involved exploring the structure of the data, assessing its format, and ensuring it was suitable for analysis within the Tableau environment.
 
 Step 2: Data Exploration
-I carefully examined the dataset, checking for missing values, detecting data types, and identifying key features that could be crucial for my analysis.
+Upon establishing the connection, I delved into a thorough examination of the dataset. This process involved meticulous checks for missing values, detection of data types, and identification of key features that could significantly impact the analysis. Notably, during this stage, it was observed that the dataset did not include date-type data, limiting the ability to perform time-series analyses or forecasting based on temporal trends.
+
+While creating the visualizations, a further observation was made regarding the accessibility of some links for logo photos and flags. Unfortunately, due to potential changes in the data source or external factors affecting the availability of these resources, certain visual elements, such as team logos or flags, may not be displayed as intended.
 
 ## Results
 I chose Option 2 for my project. I selected the "fif18_clean.csv" dataset, which contains comprehensive player statistics from FIFA 2018.
 
 Top 10 Countries with Best Average Potential (Map):
 
-I created a map visualization to showcase the average potential of players from different countries. This helps in identifying countries with a high potential pool, aiding in the search for "wonder kids."
+I created a map visualization to showcase the average potential of players from different countries. This helps in identifying countries with a high potential pool, aiding in the search for "wonder kids."("Wonder kids" is a term commonly used in the world of football (soccer) to refer to exceptionally talented and promising young players who exhibit outstanding skills, potential, and maturity beyond their age).
+
+When hovering over each data point, the tooltip displays additional information, including nationality, overall rating, potential, and wage.
+
+
 Cluster Analysis (Scatter Plot):
 
 I performed a cluster analysis based on player age and value. The scatter plot visualizes three clusters, helping to categorize players into different segments based on their age and market value.
