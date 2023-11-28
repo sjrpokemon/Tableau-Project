@@ -1,7 +1,13 @@
 # Final-Project-Tableau
 
+
+
 ## Project/Goals
 For my final Tableau project, the goal is to analyze and visualize FIFA 18 player stats data to gain insights into player performance, identify trends, and create an interactive dashboard for easy exploration.
+
+## Main Question
+What are the key factors influencing player performance in FIFA 18, and how can these insights contribute to strategic decision-making for player recruitment and team composition for football clubs?
+
 
 ## Process
 Step 1: Connect Data
